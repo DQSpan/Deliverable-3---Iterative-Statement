@@ -1,4 +1,8 @@
-﻿//try-catch block
+﻿using System;
+using System.ComponentModel;
+
+namespace Deliverable (3) - Iterative Statement
+//try-catch block
 try
 {
     // Ask user to choose for an integer and number series
